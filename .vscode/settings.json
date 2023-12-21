@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "new": "cpp",
+        "__locale": "cpp",
+        "locale": "cpp",
+        "ostream": "cpp",
+        "unordered_map": "cpp",
+        "iosfwd": "cpp",
+        "filesystem": "cpp"
+    }
+}
